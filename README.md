@@ -144,3 +144,4 @@ You can use the `git remote -v` command to list the remote repositories linked t
 ![Push](images/git-remote.png)
 
 If the repository *isn't* what you expect, then it's likely that you cloned from the wrong place (the default remote is always where you cloned from). If this happens, let an instructor know and they'll work with you to resolve the issue.
+# introductions-2
